@@ -35,6 +35,3 @@ When contacting, kindly provide the following information:
 - Your CV/Resume
 - Your interests and programming skills
 - The project or field you would like to work on
-
-## Industry Mentors/Advisors
-- [Neelesh Rastogi, Machine Learning Engineer, Radiology Partners](https://neeleshrastogi.com)
