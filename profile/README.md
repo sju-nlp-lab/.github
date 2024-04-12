@@ -10,8 +10,8 @@ Explore our research interests, ongoing projects, and publications at <https://s
 
 ## Research Interests
 
-- Generative AI
-- Large langauge Models (LLMs)
+- Generative AI and its Application in NLP and Education
+- Large Langauge Models (LLMs) and its Application to NLP and Education
 - Natural Language Processing (NLP)
 - Natural Language Generation (NLG) and Understanding (NLU)
 - Machine Learning
