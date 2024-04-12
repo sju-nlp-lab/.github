@@ -10,7 +10,7 @@ Explore our research interests, ongoing projects, and publications at <https://s
 
 ## Research Interests
 
-- Generative Ai
+- Generative AI
 - Large langauge Models (LLMs)
 - Natural Language Processing (NLP)
 - Natural Language Generation (NLG) and Understanding (NLU)
